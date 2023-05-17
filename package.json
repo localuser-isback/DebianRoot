@@ -1,5 +1,22 @@
+
 {
-  "dependencies": {
-    "gritty": "^7.1.0"
-  }
+    "name": "SlidethatCF",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "npm i gritty",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "bash ./ReplRoot/main.sh"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/localuser-isback/SlidethatCF.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/localuser-isback/SlidethatCF/issues"
+    },
+    "homepage": "https://github.com/localuser-isback/SlidethatCF#readme"
 }
+
